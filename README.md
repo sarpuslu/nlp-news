@@ -8,4 +8,4 @@ The goal of this challenge was to calculate unigram and bigram frequency counts,
 
 ## Implementation
 
-[Click here](https://github.com/sarpuslu/nlp-news) to see an in-depth Jupyter notebook analysis.
+[Click here](https://github.com/sarpuslu/nlp-news/blob/master/news%20article%20nlp%20analysis.ipynb) to see an in-depth Jupyter notebook analysis.
